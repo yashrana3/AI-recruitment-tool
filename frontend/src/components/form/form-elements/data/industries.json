@@ -1,0 +1,120 @@
+{
+    "Data": [
+        {
+            "industry": "Computer and Network Security",
+            "industry_id": 118
+        },
+        {
+            "industry": "E-Learning Providers",
+            "industry_id": 132
+        },
+        {
+            "industry": "IT System Custom Software Development",
+            "industry_id": 3102
+        },
+        {
+            "industry": "Computer Networking Products",
+            "industry_id": 5
+        },
+        {
+            "industry": "Blockchain Services",
+            "industry_id": 3134
+        },
+        {
+            "industry": "Social Networking Platforms",
+            "industry_id": 3127
+        },
+        {
+            "industry": "Security Systems Services",
+            "industry_id": 1958
+        },
+        {
+            "industry": "Wireless Services",
+            "industry_id": 119
+        },
+        {
+            "industry": "Mobile Gaming Apps",
+            "industry_id": 3131
+        },
+        {
+            "industry": "Robotics Engineering",
+            "industry_id": 3248
+        },
+        {
+            "industry": "Embedded Software Products",
+            "industry_id": 3099
+        },
+        {
+            "industry": "Mobile Computing Software Products",
+            "industry_id": 3100
+        },
+        {
+            "industry": "IT System Data Services",
+            "industry_id": 3106
+        },
+        {
+            "industry": "Internet News",
+            "industry_id": 3124
+        },
+        {
+            "industry": "Data Security Software Products",
+            "industry_id": 3130
+        },
+        {
+            "industry": "Business Intelligence Platforms",
+            "industry_id": 3128
+        },
+        {
+            "industry": "Desktop Computing Software Products",
+            "industry_id": 3101
+        },
+        {
+            "industry": "IT System Operations and Maintenance",
+            "industry_id": 3103
+        },
+        {
+            "industry": "IT System Training and Support",
+            "industry_id": 3105
+        },
+        {
+            "industry": "IT System Design Services",
+            "industry_id": 1855
+        },
+        {
+            "industry": "Robot Manufacturing",
+            "industry_id": 3247
+        },
+        {
+            "industry": "Satellite Telecommunications",
+            "industry_id": 1649
+        },
+        {
+            "industry": "IT System Testing and Evaluation",
+            "industry_id": 3107
+        },
+        {
+            "industry": "IT System Installation and Disposal",
+            "industry_id": 3104
+        },
+        {
+            "industry": "Communications Equipment Manufacturing",
+            "industry_id": 964
+        },
+        {
+            "industry": "Digital Accessibility Services",
+            "industry_id": 3244
+        },
+        {
+            "industry": "Space Research and Technology",
+            "industry_id": 3089
+        },
+        {
+            "industry": "Climate Data and Analytics",
+            "industry_id": 3252
+        },
+        {
+            "industry": "Surveying and Mapping Services",
+            "industry_id": 3249
+        }
+    ]
+}

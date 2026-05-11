@@ -1,0 +1,19 @@
+.header-scroll,
+.content-scroll {
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    height: 20px;
+    /* Height of the scrollbar area */
+}
+
+.header-scroll {
+    /* Position it above the content */
+    margin-bottom: -20px;
+    /* Adjust to overlap */
+}
+
+.content-scroll table {
+    width: 1000px;
+    /* Make table wider than container */
+}

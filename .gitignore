@@ -1,0 +1,25 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+
+# Logs
+*.log
+
+# Frontend
+node_modules/
+dist/
+
+.txt
+
+.env.local
+.env.production
+.env
+
+.idea
+
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
